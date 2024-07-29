@@ -12,7 +12,9 @@ This script allows you to quickly use `yt-dlp` on macos to download videos and a
 ## Install
 
 ```
-brew install yt-dlp ffmpeg fprobe
+brew install yt-dlp
+brew install ffmpeg
+brew install fprobe
 ```
 
 ## How to use
