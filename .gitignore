@@ -1,0 +1,29 @@
+# Ignora i file di log
+*.log
+
+# Ignora i file di configurazione dell'IDE
+.vscode/
+.idea/
+
+# Ignora i file di sistema
+.DS_Store
+
+# Ignora le directory di build
+build/
+dist/
+
+# Ignora i file di dipendenze
+node_modules/
+venv/
+
+# Ignora i file di output
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignora i file di configurazione personali
+*.env
+
+downloads/*
+!downloads/.gitkeep
